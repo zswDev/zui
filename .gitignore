@@ -1,0 +1,10 @@
+*.out
+
+build/
+build/*
+
+.cache
+.cache/*
+
+lib
+lib/*
